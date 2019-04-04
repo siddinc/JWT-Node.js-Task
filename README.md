@@ -1,6 +1,6 @@
 # JWT-Node.js-Task
--Technical round for phionike solutions.
--RESTful API with JWT authentication and authorization.
+- Technical round for phionike solutions.
+- RESTful API with JWT authentication and authorization.
 
 # Note
 - This requires node.js v10x locally installed on your computer.
