@@ -1,5 +1,4 @@
-# JWT-Node.js-Task
-- Technical round for phionike solutions.
+# jwt using node.js
 - RESTful API with JWT authentication and authorization.
 
 # Note
